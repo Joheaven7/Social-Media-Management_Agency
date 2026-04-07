@@ -19,7 +19,7 @@ A modern, responsive digital agency website built with **React 19**, **Vite**, a
  | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/53521a37-a16c-484c-b32a-2f71c065f8f0" />
  |
 
-*(Replace placeholders with actual screenshots from your project)*
+
 
 ## 🌟 Features
 
